@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shaishahch.z10z.xyz/sitemap.xml
